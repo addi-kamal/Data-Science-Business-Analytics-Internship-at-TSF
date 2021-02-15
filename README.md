@@ -1,6 +1,13 @@
 # Data-Science-Business-Analytics-Internship-at-TSF :
-First task : Prediction using Supervised ML
+Task 1 : Prediction using Supervised ML
 
-Second task : Prediction using Unsupervised ML
+Task 2 : Prediction using Unsupervised ML
 
 Task 3 : Exploratory Data Analysis - Retail
+
+Task 4 : Exploratory Data Analysis - Terrorism
+
+Task 5 : Perform Exploratory Data Analysis on 'Indian Premiere League'-Sports
+
+Task 6 : Prediction using Decision Tree Algorithm
+
