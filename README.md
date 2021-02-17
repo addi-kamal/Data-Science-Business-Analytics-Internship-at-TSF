@@ -11,3 +11,4 @@ Task 5 : Perform Exploratory Data Analysis on 'Indian Premiere League'-Sports
 
 Task 6 : Prediction using Decision Tree Algorithm
 
+Task 8 : Timeline Analysis-Covid-19
