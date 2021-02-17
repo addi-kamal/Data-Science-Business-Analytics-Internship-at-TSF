@@ -1,4 +1,4 @@
-# Data-Science-Business-Analytics-Internship-at-TSF :
+# Data Science and Business Analytics Internship at TSF :
 Task 1 : Prediction using Supervised ML
 
 Task 2 : Prediction using Unsupervised ML
