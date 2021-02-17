@@ -13,6 +13,8 @@ with basic as well as advanced charts
 
 ● Dashboard link : https://public.tableau.com/profile/kamal.addi6964#!/vizhome/DashboardCovid19_16135278621610/Dashboard
 
+● Youtube link : https://youtu.be/9BeUZD0AM7c
+
 ## Dashboard :
 
 
